@@ -1,2 +1,3 @@
-My first file
-added line
+My first file.
+added line.
+another line.
